@@ -33,13 +33,13 @@ Analista-de-Datos---TSCDIA---2023
 
 
 - Ayán	María Trinidad 
-- Benavídez	Laila Ayelén
-- Nuesch	Christian Simón Alejandro
-- Escalante Agüero	María Fernanda	
-- Marcoloni Leon
+- Angiolini Sofía Carla 
+- Donati Camila 
+- Quiroga  Fernanda	
+- Valvassori Etelvina Graciela 
 - Giordano	Ariel eduardo
 - Herrera	Édgar
-- Trujillo	María Celeste []()
+- López María Gabriela   []()
 
 <br><br>
 
