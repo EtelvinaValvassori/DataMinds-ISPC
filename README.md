@@ -8,12 +8,8 @@ Analista-de-Datos---TSCDIA---2023
 ● Nombre y apellido Ariel Giordano /Usuario de GitHub  https://github.com/GiORDiAR
 ● Nombre y apellido /Usuario de GitHub 
 ● Nombre y apellido /Usuario de GitHub
-# DataMinds PROYECTO-TECNOLGICO-INTEGRADOR-2023
+# DataMinds-ISPC-2024
 
-
-||      |
-
-||	  |
 	
 
 
