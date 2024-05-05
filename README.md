@@ -7,4 +7,4 @@ Analista-de-Datos---TSCDIA---2023
 ● Nombre y apellido Camila Donati /Usuario de GitHub  https://github.com/camidonati
 ● Nombre y apellido Ariel Giordano /Usuario de GitHub  https://github.com/GiORDiAR
 ● Nombre y apellido Maria Trinidad Ayan /Usuario de GitHub https://github.com/triniayan
-● Nombre y apellido /Usuario de GitHub
+● Nombre y apellido Etelvina Graciela Valvassori /Usuario de GitHub https://github.com/EtelvinaValvassori
